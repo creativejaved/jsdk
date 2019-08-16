@@ -1,0 +1,20 @@
+{
+    "name": "jsdk/php-video-thumnail-generator",
+    "type": "library",
+    "description": "PHP random and secure password generator class",
+    "keywords": ["ffmpeg", "php ffmpeg", "ffmpeg video screenshot", "ffmpeg php video screenshot", "video screenshot", "video thumbnail", "php video thumbnail", "ffmpeg video thumbnail", "generate video thumbnail in php", "generate video thumbnail using ffmpeg in php", "php generate video screenshot"],
+    "authors": [
+        {
+            "name": "Javed Saifi",
+            "email": "creative.rihan@gmail.com",
+            "homepage": "https://javedsaifi.herokuapp.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {"jsdk\\": "src/"}
+    }
+}
