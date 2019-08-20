@@ -16,6 +16,9 @@ composer require jsdk/php-video-thumnail-generator
 
 #### Using Library
 ```
+use jsdk\GenerateVideoThumbnail;
+
+
 $obj = new GenerateVideoThumbnail(FFMPEG_PATH);
 $obj->setOutputPath('output_location');
 ```
