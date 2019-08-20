@@ -11,7 +11,7 @@ Generate thumbnail from the video file using PHP
 
 Intall library in PHP project using composer
 ```
-composer require creativejaved/php-generate-video-thumbnail
+composer require jsdk/php-video-thumnail-generator
 ```
 
 #### Using Library
